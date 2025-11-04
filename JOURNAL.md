@@ -6,3 +6,9 @@
   ==================================================================
 -->
 
+## 11/4/2025 - Started on the frame  
+
+I started on the frame i already had some ideas on how i wanted it to look like even tho i already have a shape of the frame i have a totally different frame idea not sure on which design i'm going for so yeah that concludes the day
+![Screenshot 2025-11-04 165600](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c4a2b8e0849879d78421c6444b53adbfceb476d2/Screenshot%202025-11-04%20165600.png)
+  
+
