@@ -12,3 +12,8 @@ I started on the frame i already had some ideas on how i wanted it to look like 
 ![Screenshot 2025-11-04 165600](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c4a2b8e0849879d78421c6444b53adbfceb476d2/Screenshot%202025-11-04%20165600.png)
   
 
+## 11/5/2025 - NEW design!  
+
+So i actually went with the second idea that i had for the frame shape and i'm quite happy with it still need to make a few changes its too small in one of the directions but it is soo cool im loving it![Screenshot 2025-11-05 161019](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--03599e48495c6e449c574d7a2220ce0687241b29/Screenshot%202025-11-05%20161019.png)
+  
+
