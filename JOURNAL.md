@@ -17,8 +17,13 @@ I started on the frame i already had some ideas on how i wanted it to look like 
 So i actually went with the second idea that i had for the frame shape and i'm quite happy with it still need to make a few changes its too small in one of the directions but it is soo cool im loving it![Screenshot 2025-11-05 161019](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--03599e48495c6e449c574d7a2220ce0687241b29/Screenshot%202025-11-05%20161019.png)
   
 
-## 11/7/2025 - Made camera attachement   
+## 11/7/2025 12 PM - Made camera attachement   
 
 Made this really cool attachment for the camera and i think it turned out great! i already printed a version that half worked and the one on the image is the new version which i'm pretty sure will work perfectly![Screenshot 2025-11-07 123100](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9367190f5bd882e4ae0896a47f773940ba287564/Screenshot%202025-11-07%20123100.png)
+  
+
+## 11/7/2025 6 PM - Made camera attachement better!  
+
+I made the camera attachment better by making the standoffs bigger so they are only 1 standoff instead of two (this makes sense for me :hdheavysob:) and made somethings a bit more bigger so when printed i dont have to sand stuff![Screenshot 2025-11-07 184641](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--51dff80b9c3fd4a040d8cbac4c7cb95b30ffc85a/Screenshot%202025-11-07%20184641.png)
   
 
