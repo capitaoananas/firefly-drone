@@ -17,7 +17,7 @@ A 75mm tinywhoop drone with a custom frame inspierd by [bubito](https://rotorrio
 
 This is the full BOM but i already have most of the parts that i had before but never had a frame and some of the pices i could not buy.
 
-| Part                         | Quantity | Price  | Link                                                                                                                       | Notes                                                           |
+| Part                         | Quantity | Price  | Link                                                                                                                       | Parts that i have                                                           |
 | ---------------------------- | -------- | ------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Matrix 1S FC (5in1)          | 1        | $49.99 | [BetaFPV](https://betafpv.com/collections/brushless-flight-controller/products/air-brushless-flight-controller)                                           |
 | C03 FPV Micro Camera      | 1        | $11.99 | [BetaFPV](https://betafpv.com/collections/camera-vtx-1/products/c03-fpv-micro-camera)                                           |
