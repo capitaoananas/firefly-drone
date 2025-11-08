@@ -40,12 +40,36 @@ ALl the 3D models are original and made in Fusion
 
 Render
 :-----:
-![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png)
+![frame render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae41fd22ea5b0ed23c09fd1d408215f21ae68214_firefly.png)
 
 ### Frame
 
-The frame is a hybrid X (from what i could find) and the wheelbase is 75mm
+The frame is a hybrid X (from what i could find) and the wheelbase is 75mm.
+
+**Features**
+- Cut outs for built in battery holder just add velco straps. You can choose battery postion for diffrent flying expirience.
+- Hole for JST connector for connecting to the computer.
+- 75mm wheelbase.
 
 Bottom             |  Top
 :-------------------------:|:-------------------------:
-![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png)  |  ![Frame bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4660e271f32b9259f2a28c94360f1d4f2195c398_frome_bottom.png)
+![Frame bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4660e271f32b9259f2a28c94360f1d4f2195c398_frome_bottom.png) | ![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png) 
+
+### Camera and Antenna attachements
+
+These are also the standoffs for the bottom and top frame parts
+
+#### Camera attachement
+
+Front             |  Side
+:-------------------------:|:-------------------------:
+![camera front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/32a19cef03dfc75fde9cb5d0d551e11e78802d02_camera_angle_2.png) | ![camera side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/361d7bc777ff7efd3c57dcf23733c943224731e2_camera_angle_1.png) 
+
+#### Antenna attachement
+
+Front             |  Side
+:-------------------------:|:-------------------------:
+![antenna front](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd985da8353bfceb97f8982778d92265ceea2644_antenna_angle_2.png) | ![antenna side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e1cf6b2b11a38293d027370f99a0d7dec7a41e11_antenna_angle_1.png)
+
+---
+
