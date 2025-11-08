@@ -34,5 +34,18 @@ This is the full BOM but i already have most of the parts that i had before but 
 
 ---
 
-## Frame Overview
+## 3D Overview
 
+ALl the 3D models are original and made in Fusion
+
+Render
+:-----:
+![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png)
+
+### Frame
+
+The frame is a hybrid X (from what i could find) and the wheelbase is 75mm
+
+Bottom             |  Top
+:-------------------------:|:-------------------------:
+![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png)  |  ![Frame bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4660e271f32b9259f2a28c94360f1d4f2195c398_frome_bottom.png)
