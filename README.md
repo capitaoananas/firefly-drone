@@ -28,7 +28,7 @@ This is the full BOM but i already have most of the parts that i had before but 
 | nylon m2 nuts                | 8        | $1.31 | [aliexpress](https://pt.aliexpress.com/item/1005005203028580.html?spm=a2g0o.productlist.main.2.6a7e5165o0YQSd&algo_pvid=45368365-0c47-445c-9c74-579d4e111e16&algo_exp_id=45368365-0c47-445c-9c74-579d4e111e16-1&pdp_ext_f=%7B%22order%22%3A%221018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%211.40%211.37%21%21%2111.44%2111.22%21%402103963717509350799621704ecaa1%2112000032138763289%21sea%21PT%216372042523%21X&curPageLogUid=AHVCUEDyPIY6&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                                                                                                            | [ ]
 | Radiomaster pocket controller | 1 | $76.36 | [aliexpress](https://pt.aliexpress.com/item/1005009135876837.html?spm=a2g0o.productlist.main.3.52bb7fe1c8DHHV&algo_pvid=ca3d933c-015c-4566-86b1-602b0e289ea1&algo_exp_id=ca3d933c-015c-4566-86b1-602b0e289ea1-2&pdp_ext_f=%7B%22order%22%3A%22220%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2183.60%2155.18%21%21%2183.60%2155.18%21%40210384cc17522254864678855e0c14%2112000048044361011%21sea%21PT%216372042523%21X&curPageLogUid=Iq4eLOUrwulL&utparam-url=scene%3Asearch%7Cquery_from%3A) | [ ]
 
-Total: `$202.13`
-
+**Total** (All Parts): `$202.13`
+**Total** (Parts to Buy): `$101.14`
 
 ---
