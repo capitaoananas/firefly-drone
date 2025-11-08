@@ -27,3 +27,8 @@ Made this really cool attachment for the camera and i think it turned out great!
 I made the camera attachment better by making the standoffs bigger so they are only 1 standoff instead of two (this makes sense for me :hdheavysob:) and made somethings a bit more bigger so when printed i dont have to sand stuff![Screenshot 2025-11-07 184641](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--51dff80b9c3fd4a040d8cbac4c7cb95b30ffc85a/Screenshot%202025-11-07%20184641.png)
   
 
+## 11/8/2025 - Made antena holder  
+
+So i just fastly made a thing to hold the antenna so it wouldn't just stay dangling there so i made this really sim![Screenshot 2025-11-08 114805](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f49058a0d62b52f431774034e699b392a7574d1a/Screenshot%202025-11-08%20114805.png)
+ple but good attachment for it and i think it turned out great  
+
