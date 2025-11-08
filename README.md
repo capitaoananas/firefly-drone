@@ -42,6 +42,8 @@ Render
 :-----:
 ![frame render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae41fd22ea5b0ed23c09fd1d408215f21ae68214_firefly.png)
 
+---
+
 ### Frame
 
 The frame is a hybrid X (from what i could find) and the wheelbase is 75mm.
@@ -54,6 +56,8 @@ The frame is a hybrid X (from what i could find) and the wheelbase is 75mm.
 Bottom             |  Top
 :-------------------------:|:-------------------------:
 ![Frame bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4660e271f32b9259f2a28c94360f1d4f2195c398_frome_bottom.png) | ![frame top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/291d309484a3dbc2c4970924825a334b0ac992f3_frame_top.png) 
+
+---
 
 ### Camera and Antenna attachements
 
