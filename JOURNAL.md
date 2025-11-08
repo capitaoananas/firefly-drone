@@ -27,8 +27,19 @@ Made this really cool attachment for the camera and i think it turned out great!
 I made the camera attachment better by making the standoffs bigger so they are only 1 standoff instead of two (this makes sense for me :hdheavysob:) and made somethings a bit more bigger so when printed i dont have to sand stuff![Screenshot 2025-11-07 184641](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--51dff80b9c3fd4a040d8cbac4c7cb95b30ffc85a/Screenshot%202025-11-07%20184641.png)
   
 
-## 11/8/2025 - Made antena holder  
+## 11/8/2025 11 AM - Made antena holder  
 
 So i just fastly made a thing to hold the antenna so it wouldn't just stay dangling there so i made this really sim![Screenshot 2025-11-08 114805](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f49058a0d62b52f431774034e699b392a7574d1a/Screenshot%202025-11-08%20114805.png)
 ple but good attachment for it and i think it turned out great  
+
+## 11/8/2025 12 PM - Small changes  
+
+There are some other small changes that i did:
+
+- added a hole for the JST connector that there is on the FC (Flight Controller) so you can connect it to the computer and i think it should work 
+- the other 4 holes i made them more together and these holes are to hold the battery so i pass 2 small Velcro straps and it holds the battery together and there also are holes in the top panel because like that you can choose if you use the battery in the top or bottom with changing the battery like that you can change the feel of the drone
+
+![Screenshot 2025-11-08 115730](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--61ec7ca8450c0990817406f4cc3168700f96a86c/Screenshot%202025-11-08%20115730.png)![Screenshot 2025-11-08 120154](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--83b482e697d6647db19d2514cb61cff6452e86a1/Screenshot%202025-11-08%20120154.png)
+
+  
 
