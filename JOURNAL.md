@@ -43,3 +43,12 @@ There are some other small changes that i did:
 
   
 
+## 11/8/2025 8 PM - Made camera attachement   
+
+Wrote the README so i can submit!! for that i made this:
+- Made a BOM in markdown and .csv format.
+- Rendered images in Fusion.
+- Exported files from Fusion.
+- Wrote general README![FireFly](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--3946abfa0e5e646ae72c0cd094984c2522792644/FireFly.png)
+  
+
